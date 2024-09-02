@@ -1,0 +1,6 @@
+Invoking command in '/home/deireb/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/deireb/sam_bot_description -DCMAKE_INSTALL_PREFIX=/home/deireb/sam_bot_description/install/sam_bot_description
+Invoked command in '/home/deireb/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/deireb/sam_bot_description -DCMAKE_INSTALL_PREFIX=/home/deireb/sam_bot_description/install/sam_bot_description
+Invoking command in '/home/deireb/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/deireb/sam_bot_description/build/sam_bot_description -- -j2 -l2
+Invoked command in '/home/deireb/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/deireb/sam_bot_description/build/sam_bot_description -- -j2 -l2
+Invoking command in '/home/deireb/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/deireb/sam_bot_description/build/sam_bot_description
+Invoked command in '/home/deireb/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/deireb/sam_bot_description/build/sam_bot_description

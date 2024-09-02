@@ -1,0 +1,37 @@
+[0.015s] Invoking command in '/home/deireb/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/deireb/sam_bot_description/build/sam_bot_description -- -j2 -l2
+[0.063s] Invoked command in '/home/deireb/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/deireb/sam_bot_description/build/sam_bot_description -- -j2 -l2
+[0.084s] Invoking command in '/home/deireb/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/deireb/sam_bot_description/build/sam_bot_description
+[0.089s] -- Install configuration: ""
+[0.089s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src
+[0.090s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea
+[0.090s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/inspectionProfiles
+[0.090s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/inspectionProfiles/profiles_settings.xml
+[0.090s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/vcs.xml
+[0.090s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/workspace.xml
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/misc.xml
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/src.iml
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/.gitignore
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/.idea/modules.xml
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/main.py
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/description
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/src/description/sam_bot_description.urdf
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/launch
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py
+[0.091s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/rviz
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config.rviz.py
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/ament_index/resource_index/parent_prefix_path/sam_bot_description
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.sh
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.dsv
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/environment/path.sh
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/environment/path.dsv
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/local_setup.bash
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/local_setup.sh
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/local_setup.zsh
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/local_setup.dsv
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/package.dsv
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/ament_index/resource_index/packages/sam_bot_description
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig.cmake
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig-version.cmake
+[0.092s] -- Up-to-date: /home/deireb/sam_bot_description/install/sam_bot_description/share/sam_bot_description/package.xml
+[0.093s] Invoked command in '/home/deireb/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/deireb/sam_bot_description/build/sam_bot_description
